@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./oeuvresdedelill00virggoog/oeuvresdedelill00virggoog_0007.png"; bbox 0 0 729 1202; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 251 409 464 443">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 251 409 464 443">
+     <span class='ocr_line' id='line_1_1' title="bbox 251 409 464 443; baseline -0.005 0"><span class='ocrx_word' id='word_1_1' title='bbox 251 409 464 443; x_wconf 86' lang='lat' dir='ltr'><strong>OEUVRES</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 130 492 681 555">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 130 492 681 555">
+     <span class='ocr_line' id='line_1_2' title="bbox 130 492 681 555; baseline 0 -18"><span class='ocrx_word' id='word_1_2' title='bbox 130 492 220 537; x_wconf 85' lang='lat' dir='ltr'>DE</span> <span class='ocrx_word' id='word_1_3' title='bbox 264 492 586 540; x_wconf 84' lang='lat' dir='ltr'><strong>DELILLE.</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 662 548 681 555; x_wconf 74' lang='lat'>..</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 308 596 411 612">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 308 596 411 612">
+     <span class='ocr_line' id='line_1_3' title="bbox 308 596 411 612; baseline 0 0"><span class='ocrx_word' id='word_1_5' title='bbox 308 596 411 612; x_wconf 65' lang='lat' dir='ltr'>TTTTT</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
